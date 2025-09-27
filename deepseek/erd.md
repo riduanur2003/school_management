@@ -3,3 +3,34 @@
 <img width="2893" height="1603" alt="deepseek_mermaid_20250927_2e8a18" src="https://github.com/user-attachments/assets/bff033c4-fc13-4de0-8e8c-b3adfeda8fbb" />
 <img width="2752" height="2016" alt="deepseek_mermaid_20250927_eb7ca7" src="https://github.com/user-attachments/assets/fd5fc8bc-5521-4f33-a196-df34c7c773e3" />
 <img width="2372" height="4250" alt="deepseek_mermaid_20250927_a4a5d3" src="https://github.com/user-attachments/assets/216eae6b-b5d1-4d48-a614-51ef08191dd7" />
+mindmap
+  root((Student Management System))
+    Core Entities
+      STUDENT
+        : Personal info
+        : Academic records
+        : Contact details
+      DEPARTMENT
+        : Faculty organization
+        : Course catalog
+      FACULTY
+        : Teaching staff
+        : Department affiliation
+    Academic Operations
+      ENROLLMENT
+        : Student-Course linkage
+        : Semester tracking
+      ATTENDANCE
+        : Class participation
+        : Absence records
+      GRADING
+        ASSIGNMENT
+          : Course work
+          : Weighting
+        GRADE
+          : Performance tracking
+          : GPA calculation
+    Financial Operations
+      PAYMENT
+        : Tuition fees
+        : Payment history
